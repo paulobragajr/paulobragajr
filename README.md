@@ -5,9 +5,6 @@
 </br>Mobile Team Leader at <a href="https://stefanini.com/pt-br">Stefanini Group</a>
 </em></p>
 
-[![Twitter: paulobraga_jr](https://img.shields.io/twitter/follow/paulobraga_jr?style=social)](https://twitter.com/paulobraga_jr)
-[![GitHub paulobragajr](https://img.shields.io/github/followers/paulobragajr?label=follow&style=social)](https://github.com/paulobragajr)
-
 ### A little more about me...  
 
 ```javascript
