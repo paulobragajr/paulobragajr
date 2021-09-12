@@ -11,7 +11,7 @@
 const pauloBragaJunior = {
   code: [Javascript, Typescript, Java, Kotlin, Swift, HTML, CSS],
   tools: [React, React Native , Node, Angular , Spring],
-  architecture: ["microservices", "Android", "IOS"],
+  architecture: [microservices, Android, IOS],
 }
 ```
 
