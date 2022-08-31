@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
 <p>
 
-</br>Mobile Team Leader at <a href="https://stefanini.com/pt-br">Stefanini Group</a>
+</br>Android Specialist at <a href="https://www.original.com.br/">Original Bank</a>
 </em></p>
 
 ### A little more about me...  
