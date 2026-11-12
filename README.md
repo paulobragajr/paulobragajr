@@ -1,7 +1,7 @@
 # Paulo Braga Junior
 
 <p align="left">
-  <strong>Mobile Software Engineer</strong> com sólida trajetória no desenvolvimento de software, especialista no ecossistema mobile nativo (<strong>Android / Kotlin</strong> & <strong>iOS / Swift</strong>) e arquiteturas escaláveis. Atualmente desenvolvendo soluções de alto impacto, performance e confiabilidade no <strong>PicPay</strong>.
+  <strong>Mobile Software Engineer</strong> com mais de uma década no desenvolvimento de software, especialista no ecossistema mobile nativo (<strong>Android / Kotlin</strong> & <strong>iOS / Swift</strong>) e arquiteturas escaláveis. Atualmente atuando no <strong>PicPay</strong>, com trajetória em grandes players financeiros e de tecnologia como <strong>Banco Original</strong>, <strong>Stefanini</strong> e startups como <strong>SpeedWay</strong>.
 </p>
 
 <p align="left">
